@@ -1,0 +1,18 @@
+Dear [User's Name],
+
+Thank you for submitting the question paper titled **"[Paper Title]"**. After careful review by our scrutiny team, we regret to inform you that the submission has not met the required criteria and has been rejected.
+
+❌ **Status:** Rejected
+
+[Optional: If feedback was provided:]
+
+📝 **Feedback from Scrutiny Team:**
+"[Feedback]"
+
+You are welcome to revise and resubmit the paper after addressing the feedback. Please ensure that all submission guidelines are followed.
+
+If you need assistance or clarification, don’t hesitate to contact us.
+
+Best regards,  
+[Your App/Team Name]  
+[Contact Info]
